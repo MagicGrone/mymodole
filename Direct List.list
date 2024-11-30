@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,music.apple.com
 PROCESS-NAME,Music
+DOMAIN,radio-activity.itunes.apple.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
