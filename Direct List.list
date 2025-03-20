@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,term.wtf
+DOMAIN-SUFFIX,789.123456.al
+DOMAIN-REGEX,^dl-[A-Za-z0-9-]+\.mypikpak\.com$
 
 DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN,aod.itunes.apple.com
